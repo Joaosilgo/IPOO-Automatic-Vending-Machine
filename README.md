@@ -1,6 +1,8 @@
 # Relatório Mini-Projeto 3
 ## Introdução á Programação Orientada por Objetos
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Joaosilgo/IPOO-Automatic-Vending-Machine/maquina)
+
 ### Ano Letivo: 2015/2016
 
 ### Professor Fausto
